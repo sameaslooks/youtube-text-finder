@@ -1,0 +1,5 @@
+yt-dlp>=2025.11.12
+opencv-python>=4.10.0.84
+numpy>=1.26.0
+fuzzysearch>=0.7.3
+easyocr>=1.7.1
